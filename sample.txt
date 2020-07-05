@@ -1,2 +1,4 @@
 Hi this is sample file for gi
 this is 2nd line.
+Hi this is sample file for git
+this is 2nd line from github.
