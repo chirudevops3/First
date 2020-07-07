@@ -1,1 +1,2 @@
-this is 2nd exmple file adding in git 
+this is 1st line  exmple file adding in git
+this is 2nd line add.  
