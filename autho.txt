@@ -1,2 +1,2 @@
 hi this file is example for password less autentication. 
-
+hi this for reset command. 
